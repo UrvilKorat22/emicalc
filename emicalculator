@@ -11,15 +11,13 @@
 "ads_splash":"AppOpen",
 "ads_exit":"Yes",
 "ads_interstitial_count_show":1,
-"ads_interstitial_count":3,
-"ads_interstitial_back_count_show":1,
-"ads_interstitial_back_count":5,
+"ads_interstitial_count":2,
 "ads_interstitial_failed_count":3,
 "ads_native_failed_count":3,
 "ads_appopen_failed_count":3,
 "ads_app_up_date":"No",
 "extra_screen":"Yes",
 "ads_app_up_date_link":"https:\/\/play.google.com\/store\/apps\/details?id=com.fffemote",
-"qureka_link":"https:\/\/google.com",
+"qureka_link":"",
 "privacy_link":"https:\/\/videochatstore.space\/jt\/VideoConference459\/privacy-policy.html"
 }
