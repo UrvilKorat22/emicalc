@@ -11,7 +11,7 @@
 "ads_splash":"AppOpen",
 "ads_exit":"Yes",
 "ads_interstitial_count_show":0,
-"ads_interstitial_count":2,
+"ads_interstitial_count":3,
 "ads_interstitial_failed_count":3,
 "ads_native_failed_count":3,
 "ads_appopen_failed_count":3,
