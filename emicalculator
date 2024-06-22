@@ -1,6 +1,6 @@
 {
 "ads_banner_id":"ca-app-pub-3940256099942544\/6300978111-",
-"ads_interstitial_id":"ca-app-pub-6490410135605938/4711649434-",
+"ads_interstitial_id":"ca-app-pub-6490410135605938/4711649434",
 "ads_native_id":"ca-app-pub-6490410135605938/6450492116-",
 "ads_app_open_id":"ca-app-pub-6490410135605938/7000569724-",
 "ads_app_id":"ca-app-pub-6490410135605938~6593375613",
@@ -10,8 +10,8 @@
 "ads_native_preload":"No",
 "ads_splash":"AppOpen",
 "ads_exit":"Yes",
-"ads_interstitial_count_show":5000,
-"ads_interstitial_count":5000,
+"ads_interstitial_count_show":1,
+"ads_interstitial_count":2,
 "ads_interstitial_failed_count":3,
 "ads_native_failed_count":3,
 "ads_appopen_failed_count":3,
